@@ -2,7 +2,7 @@
 Getting Started
 ===============
 
-Here is a brief example of how to use the ``GLM()`` class.
+Below, is an example of the ``GLM()`` class.
 
 .. code:: python
 
